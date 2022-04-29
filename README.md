@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ham-dash
-- 👀 I’m interested in DX for Manufacturing industry
+- 👀 I’m interested in digital prodcut in Manufacturing industry
 - 🌱 I’m currently learning Go lang, Python...
 
 <!---
